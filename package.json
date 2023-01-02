@@ -1,0 +1,25 @@
+{
+  "name": "greip-theme",
+  "displayName": "Greip Theme",
+  "description": "The VS-Code theme of Greip.io dev team.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Greip Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Greip Theme-color-theme.json"
+      }
+    ]
+  }
+}
