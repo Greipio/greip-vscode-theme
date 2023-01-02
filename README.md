@@ -19,11 +19,10 @@ To override this (or any other) theme in your personal config file, please follo
 ## Contribute
 
 1. Clone and open this [repo](https://github.com/Greipio/greip-vscode-theme) in VS Code
-2. Run `yarn` to install the dependencies.
-3. Press `F5` to open a new window with your extension loaded
-4. Open `Code > Preferences > Color Theme` [`⌘k ⌘t`] and pick the "Greip Theme" to debug.
-5. Make changes to the [`/theme/Greip Theme-color-theme.json`](https://github.com/Greipio/greip-vscode-theme/blob/main/themes/Greip%20Theme-color-theme.json) file.
-6. Once you're happy, commit your changes and open a PR.
+2. Press `F5` to open a new window with your extension loaded
+3. Open `Code > Preferences > Color Theme` [`⌘k ⌘t`] and pick the "Greip Theme" to debug.
+4. Make changes to the [`/theme/Greip Theme-color-theme.json`](https://github.com/Greipio/greip-vscode-theme/blob/main/themes/Greip%20Theme-color-theme.json) file.
+5. Once you're happy, commit your changes and open a PR.
 
 ## Change Log
 
