@@ -498,7 +498,7 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#cd5cef",
+				// "background": "#cd5cef",
 				"foreground": "#F8F8F0"
 			}
 		},
@@ -506,7 +506,7 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#51d7e9",
+				// "background": "#51d7e9",
 				"foreground": "#F8F8F0"
 			}
 		},
