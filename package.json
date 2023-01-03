@@ -1,7 +1,7 @@
 {
   "name": "greip-theme",
   "displayName": "Greip Theme",
-  "description": "The VS-Code theme of Greip.io dev team.",
+  "description": "A modern-style VS Code theme.",
   "version": "0.0.3",
   "repository": {
     "type": "git",

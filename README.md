@@ -1,6 +1,6 @@
-# Greip Theme
+# Greip VS Code Theme
 
-A VS-Code theme that we see it better fit the modern developer 😅.
+A modern-style VS Code theme (an enhanced version of One Monokai Theme).
 
 ![ScreenShot](https://cdn.jsdelivr.net/gh/Greipio/greip-vscode-theme/images/screenshot.jpeg)
 
